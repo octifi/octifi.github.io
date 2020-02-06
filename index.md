@@ -6,3 +6,4 @@ layout: home
 ---
 
 Hello world
+Octifi is Ready for you!
