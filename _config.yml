@@ -21,7 +21,7 @@
 title: Octifi Blog
 email: info@octifi.com
 description: >- # this means to ignore newlines until "baseurl:"
-Pay Now or Pay Later with 4 Interest free instalments. Octifi is built for SME's to increase their sales.
+  Pay Now or Pay Later with 4 Interest free instalments. Octifi is built for SME's to increase their sales.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "octifi.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: octifi
